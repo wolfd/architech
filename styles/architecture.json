@@ -1,0 +1,291 @@
+[
+    {
+        "name": "Art Deco",
+        "description": "None given",
+        "substyles": [
+            { "name": "Modern Materials", "chance": 1.000},
+            { "name": "Streamline Moderne", "chance": 0.200},
+            { "name": "Rich Colors", "chance": 1.000},
+            { "name": "Geometric Shapes", "chance": 1.000}
+        ]
+    },
+    {
+        "name": "Modern Materials",
+        "description": "Industrial materials like aluminum, stainless steel, Bakelite, chrome, and plastics.",
+        "substyles": [
+            { "name": "Aluminum", "chance": 0.600},
+            { "name": "Stainless Steel", "chance": 0.800},
+            { "name": "Bakelite", "chance": 0.500},
+            { "name": "Chrome", "chance": 0.300},
+            { "name": "Plastics", "chance": 0.600},
+            { "name": "Glass", "chance": 0.200}
+        ]
+    },
+    {
+        "name": "Aluminum",
+        "description": "Material",
+        "substyles": [
+        ]
+    },
+    {
+        "name": "Stainless Steel",
+        "description": "Steel that does not stain.",
+        "substyles": [
+        ]
+    },
+    {
+        "name": "Bakelite",
+        "description": "Early plastic.",
+        "substyles": [
+        ]
+    },
+    {
+        "name": "Chrome",
+        "description": "Material",
+        "substyles": [
+        ]
+    },
+    {
+        "name": "Plastics",
+        "description": "Modern material made of petroleum. Can be nearly any color and opacity.",
+        "substyles": [
+        ]
+    },
+    {
+        "name": "Early 20th Century",
+        "description": "Styles popular during the early 20th century.",
+        "substyles": [
+            { "name": "Art Deco", "chance": 0.300},
+            { "name": "Early Modernism", "chance": 0.500},
+            { "name": "Walter Gropius", "chance": 0.200}
+        ]
+    },
+    {
+        "name": "Early Modernism",
+        "description": "Traditional combined with new technological advances of early 1900s.",
+        "substyles": [
+            { "name": "Expressionism", "chance": 0.800},
+            { "name": "Bauhaus", "chance": 0.200},
+            { "name": "Walter Gropius", "chance": 0.100}
+        ]
+    },
+    {
+        "name": "Expressionism",
+        "description": "Developed in Northern Europe during the first decades of 20th century. Sculptural forms and use of concrete as artistic elements.",
+        "substyles": [
+            { "name": "Concrete", "chance": 0.900},
+            { "name": "Sculptural Forms", "chance": 0.950},
+            { "name": "Unusual Massing", "chance": 0.500},
+            { "name": "Modern Materials", "chance": 0.700},
+            { "name": "Glass", "chance": 0.800},
+            { "name": "Brick", "chance": 0.400}
+        ]
+    },
+    {
+        "name": "Concrete",
+        "description": "Material",
+        "substyles": [
+        ]
+    },
+    {
+        "name": "Sculptural Forms",
+        "description": "None given",
+        "substyles": [
+        ]
+    },
+    {
+        "name": "Unusual Massing",
+        "description": "Illogical placing of mass.",
+        "substyles": [
+        ]
+    },
+    {
+        "name": "Glass",
+        "description": "Material",
+        "substyles": [
+        ]
+    },
+    {
+        "name": "Brick",
+        "description": "Material",
+        "substyles": [
+        ]
+    },
+    {
+        "name": "Walter Gropius",
+        "description": "Famous architect. Bauhaus movement. Modern while strictly useful, combination of form and function.",
+        "substyles": [
+            { "name": "Bauhaus", "chance": 1.000}
+        ]
+    },
+    {
+        "name": "Bauhaus",
+        "description": "German art movement started by Gropius.",
+        "substyles": [
+            { "name": "Industrial", "chance": 1.000},
+            { "name": "Vertical Emphasis", "chance": 0.800},
+            { "name": "Angular Emphasis", "chance": 0.800},
+            { "name": "Light Colored Materials", "chance": 0.800},
+            { "name": "Flat Roof", "chance": 0.800},
+            { "name": "Functionalism", "chance": 0.800},
+            { "name": "Horizontal Emphasis", "chance": 0.500}
+        ]
+    },
+    {
+        "name": "Industrial",
+        "description": "Focus on use.",
+        "substyles": [
+        ]
+    },
+    {
+        "name": "Vertical Emphasis",
+        "description": "Attention given to vertical alignment",
+        "substyles": [
+        ]
+    },
+    {
+        "name": "Angular Emphasis",
+        "description": "Profoundly euclidian, circular features are few and important.",
+        "substyles": [
+        ]
+    },
+    {
+        "name": "Light Colored Materials",
+        "description": "Constricts primary materials to be bright.",
+        "substyles": [
+        ]
+    },
+    {
+        "name": "Flat Roof",
+        "description": "self-explanatory ",
+        "substyles": [
+        ]
+    },
+    {
+        "name": "Functionalism",
+        "description": "'Form ever follows function' - Louis Sullivan",
+        "substyles": [
+            { "name": "Functional Massing", "chance": 0.900},
+            { "name": "Minimal Ornament", "chance": 0.900}
+        ]
+    },
+    {
+        "name": "Functional Massing",
+        "description": "Cubes, Cuboids.",
+        "substyles": [
+        ]
+    },
+    {
+        "name": "Minimal Ornament",
+        "description": "None given",
+        "substyles": [
+        ]
+    },
+    {
+        "name": "Horizontal Emphasis",
+        "description": "None given",
+        "substyles": [
+            { "name": "Long Horizontal Lines", "chance": 1.000}
+        ]
+    },
+    {
+        "name": "Post World War I",
+        "description": "Style Moderne",
+        "substyles": [
+            { "name": "Art Deco", "chance": 1.000},
+            { "name": "Streamline Moderne", "chance": 1.000}
+        ]
+    },
+    {
+        "name": "Modern Architecture",
+        "description": "None given",
+        "substyles": [
+            { "name": "Early 20th Century", "chance": 1.000},
+            { "name": "Post World War I", "chance": 1.000}
+        ]
+    },
+    {
+        "name": "Streamline Moderne",
+        "description": "Late type of Art Deco. Emphasis on curving forms, long horizontal lines, sometimes nautical elements.",
+        "substyles": [
+            { "name": "Curving Forms", "chance": 1.000},
+            { "name": "Long Horizontal Lines", "chance": 1.000},
+            { "name": "Horizontal Emphasis", "chance": 1.000},
+            { "name": "Nautical Elements", "chance": 0.200},
+            { "name": "Minimal Ornament", "chance": 0.800},
+            { "name": "Modern Materials", "chance": 1.000},
+            { "name": "Subdued colors", "chance": 1.000},
+            { "name": "Stucco", "chance": 1.000},
+            { "name": "Rounded Edges", "chance": 1.000},
+            { "name": "Corner Windows", "chance": 1.000},
+            { "name": "Glass Brick Walls", "chance": 0.300}
+        ]
+    },
+    {
+        "name": "Curving Forms",
+        "description": "None given",
+        "substyles": [
+        ]
+    },
+    {
+        "name": "Long Horizontal Lines",
+        "description": "None given",
+        "substyles": [
+        ]
+    },
+    {
+        "name": "Nautical Elements",
+        "description": "Of the sea",
+        "substyles": [
+            { "name": "Porthole Windows", "chance": 1.000}
+        ]
+    },
+    {
+        "name": "Porthole Windows",
+        "description": "As on a boat",
+        "substyles": [
+        ]
+    },
+    {
+        "name": "Subdued colors",
+        "description": "Base colors typically light earth tones, off-whites, or beiges; trim colors typically dark colors (or bright metals) to contrast from the light base.",
+        "substyles": [
+        ]
+    },
+    {
+        "name": "Stucco",
+        "description": "Smooth plaster finish",
+        "substyles": [
+        ]
+    },
+    {
+        "name": "Rounded Edges",
+        "description": "None given",
+        "substyles": [
+        ]
+    },
+    {
+        "name": "Corner Windows",
+        "description": "Windows on corners",
+        "substyles": [
+        ]
+    },
+    {
+        "name": "Glass Brick Walls",
+        "description": "None given",
+        "substyles": [
+        ]
+    },
+    {
+        "name": "Rich Colors",
+        "description": "None given",
+        "substyles": [
+        ]
+    },
+    {
+        "name": "Geometric Shapes",
+        "description": "None given",
+        "substyles": [
+        ]
+    }
+]
